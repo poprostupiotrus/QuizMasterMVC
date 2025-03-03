@@ -1,0 +1,59 @@
+﻿@model QuizMasterMVC.Models.ViewModels.QuizViewModel
+@section Styles {
+	<link rel="stylesheet" type="text/css" href="~/css/views/create-quiz-view.css" />
+}
+@section Scripts
+{
+	<script type = "module"src="~/js/quizCreator.js"></script>
+}
+<form asp-action="Create" method="post">
+	<div class="title-container">
+		<h1 class="view-title">Stwórz Quiz</h1>
+		<button class="save-button">Zapisz</button>
+	</div>
+	<div class="quiz-name-container">
+		<div class="number-container">1</div>
+		<label asp-for="Title" class="label-text">Nazwa Quizu:</label>
+		<input asp-for="Title" class="form-control quiz-input" placeholder="Wprowadź nazwe quizu"/>
+	</div>
+	<div class= "questions-container">
+		<div class="question-title-container">
+			<div class="number-container">2</div>
+			<p class="label-text">Pytania w quizie:</p>
+		</div>
+		<div class="question-container">
+			<div class = "question-name-container">
+				<label asp-for="Questions[0].Content" class="question-label-text">Pytanie 1:</label>
+				<input name="Questions[0].Content" class="form-control quiz-input" placeholder="Wprowadź pytanie"/>
+			</div>
+			<div class= "question-answers-container">
+				<p class="question-label-text">Odpowiedzi:</p>
+				<div class="answers-container">
+					<div class="answer-container">
+						<label asp-for="Questions[0].Answers[0].AnswerText" class ="label-text">A:</label>
+						<input name="Questions[0].Answers[0].AnswerText" class="quiz-input js-answer-text-input" placeholder="Wprowadź odpowiedź"/>
+						<input name="Questions[0].Answers[0].IsCorrect" type = "checkbox" data-question-index = "0" class="answer-check-box js-answer-checbox-input" value="false"/>
+					</div>
+					<div class="answer-container">
+						<label asp-for="Questions[0].Answers[1].AnswerText" class="label-text">B:</label>
+						<input name="Questions[0].Answers[1].AnswerText" class="quiz-input js-answer-text-input" placeholder="Wprowadź odpowiedź" />
+						<input name="Questions[0].Answers[1].IsCorrect" type="checkbox" data-question-index="0" class="answer-check-box js-answer-checbox-input" value="false" />
+					</div>
+					<div class="answer-container">
+						<label asp-for="Questions[0].Answers[2].AnswerText" class="label-text">C:</label>
+						<input name="Questions[0].Answers[2].AnswerText" class="quiz-input js-answer-text-input" placeholder="Wprowadź odpowiedź" />
+						<input name="Questions[0].Answers[2].IsCorrect" type="checkbox" data-question-index="0" class="answer-check-box js-answer-checbox-input" value="false" />
+					</div>
+					<div class="answer-container">
+						<label asp-for="Questions[0].Answers[3].AnswerText" class="label-text">D:</label>
+						<input name="Questions[0].Answers[3].AnswerText" class="quiz-input js-answer-text-input" placeholder="Wprowadź odpowiedź" />
+						<input name="Questions[0].Answers[3].IsCorrect" type="checkbox" data-question-index="0" class="answer-check-box js-answer-checbox-input" value="false" />
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="question-container-footer">
+			<button class="add-question-btn">Dodaj pytanie</button>
+		</div>
+	</div>
+</form>

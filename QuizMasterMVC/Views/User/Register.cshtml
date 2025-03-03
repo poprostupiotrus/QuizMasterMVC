@@ -1,0 +1,30 @@
+﻿@model QuizMasterMVC.Models.ViewModels.UserRegisterViewModel
+@section Styles {
+    <link rel="stylesheet" type="text/css" href="~/css/views/user-form.css" />
+}
+<div class="form-container">
+    <div class="form-name-container">
+        <h1 class="form-name">Rejestracja</h1>
+    </div>
+    <form asp-action="Register" method="post">
+        <div class="user-form-input-container">
+            <label for="Username" class= "user-form-label">Nazwa użytkownika:</label>
+            <input type="text" id="Username" name="Username" asp-for="Username" class = 'user-form-input' placeholder = "Wpisz swoją nazwe" required />
+        </div>
+        <div class="user-form-input-container">
+            <label for="Password" class="user-form-label">Hasło:</label>
+            <input type="password" id="Password" name="Password" asp-for="Password" class='user-form-input' placeholder= "Wpisz swoje hasło" required />
+        </div>
+        <div class="user-form-input-container">
+            <label for="ConfirmPassword" class="user-form-label">Potwierdź hasło:</label>
+            <input type="password" id="ConfirmPassword" name="ConfirmPassword" asp-for="ConfirmPassword" class='user-form-input' placeholder= "Wpisz ponownie swoje hasło" required />
+        </div>
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <p class="error-text">@ViewBag.ErrorMessage</p>
+        }
+        <div class="user-form-submit-button-container">
+            <input type="submit" value="Zarejestruj się" class="user-form-submit-button" />
+        </div>
+    </form>
+</div>

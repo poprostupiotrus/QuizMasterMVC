@@ -1,0 +1,58 @@
+﻿@section Styles {
+	<link rel = "stylesheet" href = "~/css/views/index-page.css" />
+}
+<div class = "index-page-info-container">
+	<div class = "index-page-image-container">
+		<img src = "~/img/images/image1.png" class = "index-page-image"/>
+	</div>
+	<div class = "index-page-desc-container">
+		<div>
+			<h1 class = "index-page-description-title">
+				Rozwiązuj quizy
+			</h1>
+			<p class = "index-page-description-text">
+				Odkrywaj i rozwiązuj quizy stworzone przez innych użytkowników! Testuj swoją wiedzę i zdobywaj nowe informacje. Sprawdź, jak dobrze znasz różne tematy i baw się, ucząc się od społeczności! Aby zobaczyć najnowsze quizy klknij przycisk poniżej.
+			</p>
+			<a asp-action="Latest" asp-controller = "Quiz">
+				<button class = "index-page-button">
+					Sprawdź
+				</button>
+			</a>
+		</div>
+	</div>
+</div>
+<div class = "index-page-info-container">
+	<div class = "index-page-desc-container">
+		<div>
+			<h1 class = "index-page-description-title">
+				Twórz własne quizy
+			</h1>
+			<p class = "index-page-description-text">
+				Chcesz stworzyć quiz i podzielić się nim z innymi? Zaloguj się na stronie, aby rozpocząć! Po zalogowaniu uzyskasz dostęp do kreatora quizów, który pozwoli Ci łatwo tworzyć, edytować i publikować quizy na dowolny temat. Daj innym szansę sprawdzić swoją wiedzę i baw się, tworząc wyzwania dla społeczności!
+			</p>
+			<a asp-action = "Create" asp-controller="Quiz">
+				<button class = "index-page-button">
+					Sprawdź
+				</button>
+			</a>
+		</div>
+	</div>
+	<div class = "index-page-image-container">
+		<img src = "~/img/images/image2.png" class = "index-page-image"/>
+	</div>
+</div>
+<div class = "index-page-info-container">
+	<div class = "index-page-image-container">
+		<img src = "~/img/images/image3.png" class = "index-page-image"/>
+	</div>
+	<div class = "index-page-desc-container">
+		<div>
+			<h1 class = "index-page-description-title">
+				Odkrywaj Quizy
+			</h1>
+			<p class = "index-page-description-text">
+				Szukasz quizów, które Cię zainteresują? Wpisz słowo kluczowe lub przeglądaj najnowsze quizy, aby znaleźć wyzwania dopasowane do Twoich zainteresowań. Sprawdź swoją wiedzę i baw się, odkrywając quizy przygotowane przez innych!
+			</p>
+		</div>
+	</div>
+</div>

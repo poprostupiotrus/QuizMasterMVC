@@ -1,0 +1,64 @@
+﻿@{
+    var currentAction = ViewContext.RouteData.Values["action"].ToString();
+    var currentController = ViewContext.RouteData.Values["controller"].ToString();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - QuizMasterMVC</title>
+    <link rel="stylesheet" href ="~/css/fonts.css" />
+    <link rel="stylesheet" href="~/QuizMasterMVC.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/layout/header.css" />
+    <link rel="stylesheet" href="~/css/layout/main.css" />
+    @RenderSection("Styles", required: false)
+</head>
+<body class= "@(currentController == "User" && (currentAction == "Login" || currentAction == "Register") ? "body-user-form-page" : "body-other-pages")">
+    <header>
+		<nav class= 'nav-header'>
+            <div class= "header-content-container">
+                <div class = "header-left-section">
+                    <a asp-action="Index" asp-controller="Home">
+                        <h1 class ="title-text">Quiz Master</h1>
+                    </a>
+                </div>
+                <div class= "header-middle-section">
+                    <input type = "text" placeholder= "Wyszukaj interesujące cię quizy" class="search-bar"/>
+                    <button class= "search-button">
+                        <img src = "~/img/icons/search.png" class = "button-icon"/>
+                        <div class = "button-description">Szukaj</div>
+                    </button>
+                </div>
+                <div class = "header-right-section">
+                    @if(User.Identity.IsAuthenticated)
+                    {
+                        <img src="~/img/icons/usericon.png" class="user-icon" />
+                        <button class="username-button">
+                            <p class="username-text">@User.Identity.Name</p>
+                            <img src="~/img/icons/down.png" class="down-arrow-icon" />
+                        </button>
+                    }
+                    else
+                    {
+                        <a asp-action="Login" asp-controller="User">
+                            <button class="header-button js-login-button">Zaloguj się</button>
+                        </a>
+                        <a asp-action="Register" asp-controller="User">
+                            <button class="header-button js-register-button">Zarejestruj się</button>
+                        </a>
+                    }
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="@(currentController == "User" && (currentAction == "Login" || currentAction == "Register") ? "user-form-container" : "main-content-container")">
+            @RenderBody()
+    </div>
+    <footer>
+    </footer>
+    <script src = "~/js/search.js"></script>
+    <script src = "~/js/header.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

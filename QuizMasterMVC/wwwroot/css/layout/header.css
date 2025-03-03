@@ -1,0 +1,207 @@
+﻿.nav-header {
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(92, 13, 172);
+    height: 50px;
+    padding: 0px 50px;
+    border-bottom: 2px solid rgb(69, 0, 168)
+}
+.header-content-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.header-left-section {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.header-left-section a {
+    margin: 0;
+    text-decoration: none;
+}
+.title-text {
+    padding: 0;
+    margin: 0;
+    font-family: 'PalanquinDark-Bold';
+    text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+}
+.header-middle-section
+{
+    flex: 1;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.search-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border: 1px solid rgb(52, 0, 99);
+    background-color: #4b0c9b;
+    padding: 10px 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    cursor: pointer;
+    border-left: none;
+}
+.button-description
+{
+    display: none;
+    visibility: hidden;
+}
+.search-button:hover .button-description
+{
+    display: block;
+    visibility: visible;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    bottom: -35px;
+}
+.search-bar {
+    border-right: none;
+    width: 100%;
+    max-width: 450px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-left: 20px;
+    border: 1px solid rgb(52, 0, 99);
+}
+.search-bar:focus {
+        outline: none;
+}
+.button-icon {
+    width: 20px;
+}
+.header-right-section {
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-button {
+    padding: 10px 10px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 10px;
+    background-color: #4b0c9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+    .header-button:hover {
+        background-color: #3a0b8a;
+    }
+.header-right-section a
+{
+    display: flex;
+}
+.header-right-section a:active
+{
+    text-decoration: none;
+}
+.user-icon {
+    margin-right: 10px;
+    width: 35px;
+}
+.username-button {
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.username-text{
+    color: white;
+    font-family: 'Poppins-Light';
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 8px;
+}
+.username-info-container {
+    width: 200px;
+    cursor: default;
+    padding: 10px;
+    position: absolute;
+    background-color: white;
+    transform: translateY(100%);
+    bottom: -10px;
+    right: 0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+}
+.username-info-button
+{
+    position: relative;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+}
+.username-info-button a
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.username-info-button:hover
+{
+    background-color: rgb(234, 234, 234);
+}
+.username-info-icon
+{
+    margin-left: 10px;
+    width: 20px;
+}
+.username-info-desc {
+    margin-left: 10px;
+    color: black;
+    font-family: 'Poppins-Light';
+    font-size: 15px;
+}
+.down-arrow-icon
+{
+    width: 12px;
+}
+@media (max-width: 800px) {
+    .nav-header
+    {
+        height: auto;
+    }
+    .header-content-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .header-middle-section
+    {
+        width: 100%;
+    }
+}

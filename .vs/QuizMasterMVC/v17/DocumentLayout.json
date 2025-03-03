@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\models\\databasemodels\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\models\\databasemodels\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\models\\databasemodels\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\models\\databasemodels\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\views\\quiz\\latest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\views\\quiz\\latest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\quizmasterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\quizmasterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\wwwroot\\css\\views\\index-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\wwwroot\\css\\views\\index-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|c:\\users\\komputerrozy\\source\\repos\\quizmastermvc\\quizmastermvc\\wwwroot\\css\\layout\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D322FA3E-2CA7-4F7C-8191-FE4F025A26B7}|QuizMasterMVC\\QuizMasterMVC.csproj|solutionrelative:quizmastermvc\\wwwroot\\css\\layout\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Services\\QuizService.cs",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Services\\QuizService.cs",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Services\\QuizService.cs",
+              "RelativeToolTip": "QuizMasterMVC\\Services\\QuizService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:02:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizMasterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\QuizMasterDbContext.cs",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\QuizMasterDbContext.cs",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\QuizMasterDbContext.cs",
+              "RelativeToolTip": "QuizMasterMVC\\QuizMasterDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:29:19.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Models\\DatabaseModels\\Question.cs",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Models\\DatabaseModels\\Question.cs",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Models\\DatabaseModels\\Question.cs",
+              "RelativeToolTip": "QuizMasterMVC\\Models\\DatabaseModels\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:28:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Models\\DatabaseModels\\Answer.cs",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Models\\DatabaseModels\\Answer.cs",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Models\\DatabaseModels\\Answer.cs",
+              "RelativeToolTip": "QuizMasterMVC\\Models\\DatabaseModels\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:27:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuizMasterMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T10:24:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Program.cs",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Program.cs",
+              "RelativeToolTip": "QuizMasterMVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:56:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\layout\\main.css",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\wwwroot\\css\\layout\\main.css",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\layout\\main.css",
+              "RelativeToolTip": "QuizMasterMVC\\wwwroot\\css\\layout\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T15:27:30.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index-page.css",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\index-page.css",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\wwwroot\\css\\views\\index-page.css",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\index-page.css",
+              "RelativeToolTip": "QuizMasterMVC\\wwwroot\\css\\views\\index-page.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T12:15:07.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "QuizMasterMVC\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:07:58.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuizMasterMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:06:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Latest.cshtml",
+              "DocumentMoniker": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Views\\Quiz\\Latest.cshtml",
+              "RelativeDocumentMoniker": "QuizMasterMVC\\Views\\Quiz\\Latest.cshtml",
+              "ToolTip": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\Views\\Quiz\\Latest.cshtml",
+              "RelativeToolTip": "QuizMasterMVC\\Views\\Quiz\\Latest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:04:55.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

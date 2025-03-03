@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\QuizMasterMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuizMasterMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\layout\\header.css",
+      "PackagePath": "staticwebassets\\css\\layout\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\layout\\main.css",
+      "PackagePath": "staticwebassets\\css\\layout\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\spinner.css",
+      "PackagePath": "staticwebassets\\css\\spinner.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\create-quiz-view.css",
+      "PackagePath": "staticwebassets\\css\\views\\create-quiz-view.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\index-page.css",
+      "PackagePath": "staticwebassets\\css\\views\\index-page.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\search-view.css",
+      "PackagePath": "staticwebassets\\css\\views\\search-view.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\solve-quiz-view.css",
+      "PackagePath": "staticwebassets\\css\\views\\solve-quiz-view.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\user-form.css",
+      "PackagePath": "staticwebassets\\css\\views\\user-form.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\css\\views\\user-profile.css",
+      "PackagePath": "staticwebassets\\css\\views\\user-profile.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\fonts\\ArchivoBlack-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ArchivoBlack-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\fonts\\PalanquinDark-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PalanquinDark-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\fonts\\RedHatDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\RedHatDisplay-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\bin.png",
+      "PackagePath": "staticwebassets\\img\\icons\\bin.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\check.png",
+      "PackagePath": "staticwebassets\\img\\icons\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\close.png",
+      "PackagePath": "staticwebassets\\img\\icons\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\correct.png",
+      "PackagePath": "staticwebassets\\img\\icons\\correct.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\down.png",
+      "PackagePath": "staticwebassets\\img\\icons\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\exam.png",
+      "PackagePath": "staticwebassets\\img\\icons\\exam.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\fire-exit.png",
+      "PackagePath": "staticwebassets\\img\\icons\\fire-exit.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\incorrect.png",
+      "PackagePath": "staticwebassets\\img\\icons\\incorrect.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\pencil.png",
+      "PackagePath": "staticwebassets\\img\\icons\\pencil.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\play.png",
+      "PackagePath": "staticwebassets\\img\\icons\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\search.png",
+      "PackagePath": "staticwebassets\\img\\icons\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\timer.png",
+      "PackagePath": "staticwebassets\\img\\icons\\timer.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\user.png",
+      "PackagePath": "staticwebassets\\img\\icons\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\icons\\usericon.png",
+      "PackagePath": "staticwebassets\\img\\icons\\usericon.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\images\\image1.png",
+      "PackagePath": "staticwebassets\\img\\images\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\images\\image2.png",
+      "PackagePath": "staticwebassets\\img\\images\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\images\\image3.png",
+      "PackagePath": "staticwebassets\\img\\images\\image3.png"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\img\\images\\photo.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\header.js",
+      "PackagePath": "staticwebassets\\js\\header.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\latestPage.js",
+      "PackagePath": "staticwebassets\\js\\latestPage.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\quizCreator.js",
+      "PackagePath": "staticwebassets\\js\\quizCreator.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\quizSearch.js",
+      "PackagePath": "staticwebassets\\js\\quizSearch.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\quizSolver.js",
+      "PackagePath": "staticwebassets\\js\\quizSolver.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\shared\\loadingScreen.js",
+      "PackagePath": "staticwebassets\\js\\shared\\loadingScreen.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\shared\\quizData.js",
+      "PackagePath": "staticwebassets\\js\\shared\\quizData.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\shared\\userProfileData.js",
+      "PackagePath": "staticwebassets\\js\\shared\\userProfileData.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\js\\userProfile.js",
+      "PackagePath": "staticwebassets\\js\\userProfile.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\komputerrozy\\source\\repos\\QuizMasterMVC\\QuizMasterMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.QuizMasterMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.QuizMasterMVC.props",
+      "PackagePath": "build\\QuizMasterMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.QuizMasterMVC.props",
+      "PackagePath": "buildMultiTargeting\\QuizMasterMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.QuizMasterMVC.props",
+      "PackagePath": "buildTransitive\\QuizMasterMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

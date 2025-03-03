@@ -1,0 +1,27 @@
+﻿@model QuizMasterMVC.Models.ViewModels.UserLoginViewModel
+@section Styles {
+    <link rel="stylesheet" type="text/css" href="~/css/views/user-form.css" />
+}
+<div class="form-container">
+    <div class="form-name-container">
+        <h1 class="form-name">Logowanie</h1>
+    </div>
+    <form asp-action="Login" method="post">
+        <div class="user-form-input-container">
+            <label for="UserName" class= "user-form-label">Nazwa użytkownika:</label>
+            <input type="text" id="UserName" name="UserName" asp-for="UserName" class = 'user-form-input' placeholder = "Wpisz swoją nazwe" required />
+        </div>
+        <div class="user-form-input-container">
+            <label for="Password" class="user-form-label">Hasło:</label>
+            <input type="password" id="Password" name="Password" asp-for="Password" class='user-form-input' placeholder= "Wpisz swoje hasło" required />
+        </div>
+        @if(ViewBag.ErrorMessage != null)
+        {
+            <p class="error-text">@ViewBag.ErrorMessage</p>
+        }
+        <div class="user-form-submit-button-container">
+            <input type="submit" value="Zaloguj się" class="user-form-submit-button" />
+        </div>
+    </form>
+</div>
+
